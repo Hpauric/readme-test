@@ -26,6 +26,6 @@ I can see exactly what’s in the storedLinks collection by running a `find()` m
 
 ![](https://github.com/Hpauric/readme-test/blob/master/storedlinks-find-screenshot.png)
 
-There's a multitude of entries in the collection with the same URL that I entered while testing the interface.
+There's a multitude of entries in the collection with the same URL that I entered while testing the interface. This is useful to know!
 
 
