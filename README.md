@@ -10,6 +10,8 @@ Make sure the MongoDB database is running before attempting to start the `mongo`
 
 ![](https://github.com/Hpauric/readme-test/blob/master/mongod-cli-screenshot.png)
 
+## Shell Prompt
+
 To start a shell prompt for the above MongoDB, **open a new terminal** and type the command `mongo` to initialize the shell.
 
 With the shell running, I can list the available databases with the command `show databases`. I can see listed the database I’ve been using: `url-shortener-microservice`.
