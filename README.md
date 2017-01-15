@@ -13,21 +13,23 @@ You should see something like this
 
 ![](https://github.com/Hpauric/readme-test/blob/master/mongod-cli-screenshot.png)
 
-
 To access a shell prompt for the above MongoDB open a new terminal and type `mongo` to initialize the shell:
 
 Now the shell is running. I can list the available databases with the command `show databases`
 I see the database I’ve been using.
 
 ![](https://github.com/Hpauric/readme-test/blob/master/show-databases-screenshot.png)
+
  I can switch to the database with the command:
 `use url-shortener-microservice`
 I can see the collections in the database with:
 `show collections`
 
 ![](https://github.com/Hpauric/readme-test/blob/master/show-collections-screenshot.png)
+
 I haven’t been too busy - there are just two collections so far.
 I can see exactly what’s in the storedLinks collection by running a find() method on it without any arguments. This returns everything:
 `db.storedLinks.find()`
+
 ![](https://github.com/Hpauric/readme-test/blob/master/mongod-cli-screenshot.png)
 
